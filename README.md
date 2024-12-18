@@ -1,5 +1,7 @@
 # Fitmewise Technical Test
 
+![Fitmewise App Preview](./preview.png)
+
 This document provides instructions for setting up and running the Fitmewise technical test, which consists of both frontend and backend components.
 
 ## Frontend Setup and Execution
